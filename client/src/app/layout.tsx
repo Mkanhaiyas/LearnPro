@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "LearnPro",
   description: "A Step towards your goal.",
   icons: "/learnpro.svg",
-  }
+}
 
 export default function RootLayout({
   children,
